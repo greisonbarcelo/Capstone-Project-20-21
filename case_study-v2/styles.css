@@ -1,0 +1,50 @@
+<style>
+* {
+	font-family: roboto;
+	font-size: 20px;
+	color: #474747;
+	box-sizing: border-box;
+}
+table {
+	margin-left: auto;
+	margin-right: auto;
+}
+h1, h3, h2{
+	text-align: center;
+	font-size: 30px;
+	color: #636363;
+}
+
+input, select{
+	width: 290px;
+	height: 35px;
+	color: black;
+	border: 1px solid #c2c2c2;
+}
+
+a {
+	color: #474747;
+	text-decoration: none;
+	text-shadow: 0 0 1px white;
+	font-weight: bold;
+}
+a:hover{
+	color: #31d642;
+	font-weight: bold;
+}
+
+.active{
+	color: #31d642;
+}
+.signz{
+	font-size: 18px;
+	text-decoration: none;
+}
+.material-icons.md-36 { font-size: 36px; }
+
+.disclaimer{
+	font-weight: lighter;
+	font-size: 13px;
+	color: red;
+}
+</style>
